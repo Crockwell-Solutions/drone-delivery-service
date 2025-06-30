@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@aws-lambda-powertools/logger": "^2.22.0",
-    "@aws-sdk/client-dynamodb": "^3.835.0",
+    "@aws-sdk/client-dynamodb": "^3.839.0",
     "@aws-sdk/client-s3": "^3.837.0",
     "@aws-sdk/client-ssm": "^3.835.0",
     "@aws-sdk/lib-dynamodb": "^3.835.0",
